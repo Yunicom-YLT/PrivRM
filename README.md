@@ -7,7 +7,7 @@ The aim of this project is explore the problem of range mean estimation under LD
 
 ## Requirements
 
-The code is implemented in Python 3.9. Please refer to `requirements.txt` to see all the required packages.
+The code is implemented in Python 3.11. Please refer to `requirements.txt` to see all the required packages.
 
 ## Usage
 
