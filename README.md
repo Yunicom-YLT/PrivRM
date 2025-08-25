@@ -12,3 +12,7 @@ The code is implemented in Python 3.11. Please refer to `requirements.txt` to se
 ## Usage
 
 To reproduce the experiments, run the script `exp.py` and modify the parameters: `dataname`, `espilon`, `range size`, `nvp` and `method`.
+
+| dataname  | espilon | range size | nvp | method |
+| ------ | ---- | -------- | -------- | -------- |
+| 'kosarak','house','fare'   | 'kosarak','house','fare'    | 'kosarak','house','fare'     | 'kosarak','house','fare'  | 'kosarak','house','fare'  |'kosarak','house','fare'  |
