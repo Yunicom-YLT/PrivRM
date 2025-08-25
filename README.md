@@ -15,4 +15,4 @@ To reproduce the experiments, run the script `exp.py` and modify the parameters:
 
 | dataname  | espilon | range size | nvp | method |
 | ------ | ---- | -------- | -------- | -------- |
-| 'kosarak','house','fare'   | 'kosarak','house','fare'    | 'kosarak','house','fare'     | 'kosarak','house','fare'  | 'kosarak','house','fare'  |'kosarak','house','fare'  |
+| 'kosarak','house','fare'   | 0.1-5 | 0.1-2 | 'lm','sr','pm','hm','sw_unbiased'  | 'prirm_i','prirm_i_aa','prirm_*','prirm_*_aa'|
